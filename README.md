@@ -1,7 +1,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  COMPARATIVA DE CONDICIONES DE BROKERS                       ║
-║  Spreads, comisiones y depositos minimos lado a lado         ║
+║  COMPARATIVA DE CONDICIONES DE BROKERS                        ║
+║  Spreads, comisiones y depositos minimos lado a lado          ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
