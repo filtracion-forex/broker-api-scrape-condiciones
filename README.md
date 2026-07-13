@@ -1,7 +1,9 @@
+```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  SCRAPEO DE CONDICIONES DE BROKERS                           ║
 ║  Datos extraidos de APIs publicas y sitios web               ║
 ╚═══════════════════════════════════════════════════════════════╝
+```
 
 Los brokers publican sus spreads y comisiones como si fueran los mejores del mercado. Pero cuando pones todos los datos en una misma tabla, las diferencias son abismales.
 
